@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\x534012\\source\\repos\\Cartagena\\Cartagena\\Cartagena.csproj": {}
+    "C:\\Users\\x534012\\Source\\Repos\\MrlDev013\\Cartagena\\Cartagena\\Cartagena\\Cartagena.csproj": {}
   },
   "projects": {
-    "C:\\Users\\x534012\\source\\repos\\Cartagena\\Cartagena\\Cartagena.csproj": {
+    "C:\\Users\\x534012\\Source\\Repos\\MrlDev013\\Cartagena\\Cartagena\\Cartagena\\Cartagena.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\x534012\\source\\repos\\Cartagena\\Cartagena\\Cartagena.csproj",
+        "projectUniqueName": "C:\\Users\\x534012\\Source\\Repos\\MrlDev013\\Cartagena\\Cartagena\\Cartagena\\Cartagena.csproj",
         "projectName": "Cartagena",
-        "projectPath": "C:\\Users\\x534012\\source\\repos\\Cartagena\\Cartagena\\Cartagena.csproj",
+        "projectPath": "C:\\Users\\x534012\\Source\\Repos\\MrlDev013\\Cartagena\\Cartagena\\Cartagena\\Cartagena.csproj",
         "packagesPath": "C:\\Users\\x534012\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\x534012\\source\\repos\\Cartagena\\Cartagena\\obj\\",
+        "outputPath": "C:\\Users\\x534012\\Source\\Repos\\MrlDev013\\Cartagena\\Cartagena\\Cartagena\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

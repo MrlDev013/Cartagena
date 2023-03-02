@@ -10,8 +10,10 @@ namespace Cartagena.Entities
     public class Player
     {
         string[] playerCards = new string[5];
+        public string? cardC;
 
         Dictionary<Cards, int> cardsCount = new Dictionary<Cards, int>();
+        Board board = new Board();
 
         public void InitialCards()
         {
@@ -45,9 +47,8 @@ namespace Cartagena.Entities
         {
             Dictionary<Cards, int> quantidadeDisponivel = new Dictionary<Cards, int>(cardsCount);
             
-
             Console.WriteLine("Which card do you want to use?(C/E/F/G/T)");
-            string? cardC = Console.ReadLine();
+            cardC = Console.ReadLine();
             Cards card;
 
             if (!Enum.TryParse(cardC, out card))
@@ -65,7 +66,6 @@ namespace Cartagena.Entities
                 Console.WriteLine(par.Key + " : " + par.Value);
             }
             Console.WriteLine();
-            
         }
         
     }

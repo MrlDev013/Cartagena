@@ -31,5 +31,23 @@ namespace Cartagena.Entities
             }
             Console.WriteLine();
         }
+        public void UpdateBoard()
+        {
+            Player player = new Player();
+            int count = 0;
+
+            for (int i = 0; i < 36; i++)
+            {
+                if (player.cardC == board[i].ToString())
+                {
+                    board[i] = board[i] + "*";
+                    count++;
+                }
+                if(count == 1)
+                {
+                    break;
+                }
+            }
+        }
     }
 }

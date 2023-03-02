@@ -11,8 +11,8 @@ namespace Cartagena
             Board board = new Board();
             #endregion
 
-            board.BoardGame();      
-            board.PrintBoard();
+            board.BoardGame();      //gera o tabuleiro
+            board.PrintBoard();     //Exibe o "tabuleiro"
             
             player.InitialCards();      //Gera a mão inicial do player.
 
@@ -20,6 +20,7 @@ namespace Cartagena
             while (count < 5)
             {
                 player.Moviment();
+                board.UpdateBoard();
                 board.PrintBoard();
                 count++;
             }
