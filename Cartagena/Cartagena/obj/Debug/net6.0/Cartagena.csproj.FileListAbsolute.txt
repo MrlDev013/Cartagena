@@ -1,0 +1,15 @@
+C:\Users\x534012\source\repos\Cartagena\Cartagena\bin\Debug\net6.0\Cartagena.exe
+C:\Users\x534012\source\repos\Cartagena\Cartagena\bin\Debug\net6.0\Cartagena.deps.json
+C:\Users\x534012\source\repos\Cartagena\Cartagena\bin\Debug\net6.0\Cartagena.runtimeconfig.json
+C:\Users\x534012\source\repos\Cartagena\Cartagena\bin\Debug\net6.0\Cartagena.dll
+C:\Users\x534012\source\repos\Cartagena\Cartagena\bin\Debug\net6.0\Cartagena.pdb
+C:\Users\x534012\source\repos\Cartagena\Cartagena\obj\Debug\net6.0\Cartagena.csproj.AssemblyReference.cache
+C:\Users\x534012\source\repos\Cartagena\Cartagena\obj\Debug\net6.0\Cartagena.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x534012\source\repos\Cartagena\Cartagena\obj\Debug\net6.0\Cartagena.AssemblyInfoInputs.cache
+C:\Users\x534012\source\repos\Cartagena\Cartagena\obj\Debug\net6.0\Cartagena.AssemblyInfo.cs
+C:\Users\x534012\source\repos\Cartagena\Cartagena\obj\Debug\net6.0\Cartagena.csproj.CoreCompileInputs.cache
+C:\Users\x534012\source\repos\Cartagena\Cartagena\obj\Debug\net6.0\Cartagena.dll
+C:\Users\x534012\source\repos\Cartagena\Cartagena\obj\Debug\net6.0\refint\Cartagena.dll
+C:\Users\x534012\source\repos\Cartagena\Cartagena\obj\Debug\net6.0\Cartagena.pdb
+C:\Users\x534012\source\repos\Cartagena\Cartagena\obj\Debug\net6.0\Cartagena.genruntimeconfig.cache
+C:\Users\x534012\source\repos\Cartagena\Cartagena\obj\Debug\net6.0\ref\Cartagena.dll
